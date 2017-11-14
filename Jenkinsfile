@@ -8,7 +8,7 @@ pipeline {
         sh 'mvn --version'
       }
     }
-    stage('') {
+    stage('error') {
       steps {
         sh 'mvn package -DskipTests'
       }
