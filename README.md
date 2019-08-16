@@ -1,4 +1,4 @@
-# Spring Cloud Example Project
+# Spring Cloud Example Project CI
 
 An example project that demonstrates an end-to-end cloud-native platform using Spring Cloud for building a practical microservices architecture.
 
